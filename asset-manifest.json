@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/nike-3/static/css/main.67883a02.chunk.css",
+    "main.js": "/nike-3/static/js/main.0e2b3335.chunk.js",
+    "main.js.map": "/nike-3/static/js/main.0e2b3335.chunk.js.map",
+    "runtime-main.js": "/nike-3/static/js/runtime-main.95fbdc7f.js",
+    "runtime-main.js.map": "/nike-3/static/js/runtime-main.95fbdc7f.js.map",
+    "static/css/2.43079d8c.chunk.css": "/nike-3/static/css/2.43079d8c.chunk.css",
+    "static/js/2.e0dbbd01.chunk.js": "/nike-3/static/js/2.e0dbbd01.chunk.js",
+    "static/js/2.e0dbbd01.chunk.js.map": "/nike-3/static/js/2.e0dbbd01.chunk.js.map",
+    "index.html": "/nike-3/index.html",
+    "precache-manifest.486c7400765db3484e47a43eeefd1db8.js": "/nike-3/precache-manifest.486c7400765db3484e47a43eeefd1db8.js",
+    "service-worker.js": "/nike-3/service-worker.js",
+    "static/css/2.43079d8c.chunk.css.map": "/nike-3/static/css/2.43079d8c.chunk.css.map",
+    "static/css/main.67883a02.chunk.css.map": "/nike-3/static/css/main.67883a02.chunk.css.map",
+    "static/js/2.e0dbbd01.chunk.js.LICENSE.txt": "/nike-3/static/js/2.e0dbbd01.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/nike-3/static/media/Trade Gothic LT.0631e271.ttf",
+    "static/media/air-max-270-react-se-womens-shoe-npb2CK.jpg": "/nike-3/static/media/air-max-270-react-se-womens-shoe-npb2CK.575aa4e1.jpg",
+    "static/media/air-max-90-womens-shoe-S6hW4R.jpg": "/nike-3/static/media/air-max-90-womens-shoe-S6hW4R.4bae5f69.jpg",
+    "static/media/image1.jpg": "/nike-3/static/media/image1.aeacebc6.jpg",
+    "static/media/image2.jpg": "/nike-3/static/media/image2.73de74d4.jpg",
+    "static/media/image3.jpg": "/nike-3/static/media/image3.9ec013b8.jpg",
+    "static/media/joyride-dual-run-mens-running-shoe-8BGXtk.jpg": "/nike-3/static/media/joyride-dual-run-mens-running-shoe-8BGXtk.3a25fe98.jpg",
+    "static/media/nike-just-do-it-1.jpg": "/nike-3/static/media/nike-just-do-it-1.bb54b5b9.jpg",
+    "static/media/nike-just-do-it-2.jpg": "/nike-3/static/media/nike-just-do-it-2.a6db3007.jpg",
+    "static/media/nike-just-do-it-3.jpg": "/nike-3/static/media/nike-just-do-it-3.e5c2e894.jpg",
+    "static/media/nike-just-do-it-4.jpg": "/nike-3/static/media/nike-just-do-it-4.271f9022.jpg",
+    "static/media/nike-just-do-it-5.jpg": "/nike-3/static/media/nike-just-do-it-5.c5c55786.jpg",
+    "static/media/nike-just-do-it.jpg": "/nike-3/static/media/nike-just-do-it.abf256a1.jpg",
+    "static/media/nike-logo.png": "/nike-3/static/media/nike-logo.076b6d8a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.95fbdc7f.js",
+    "static/css/2.43079d8c.chunk.css",
+    "static/js/2.e0dbbd01.chunk.js",
+    "static/css/main.67883a02.chunk.css",
+    "static/js/main.0e2b3335.chunk.js"
+  ]
+}
